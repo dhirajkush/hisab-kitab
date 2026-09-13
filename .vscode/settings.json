@@ -1,0 +1,8 @@
+{
+    "editor.quickSuggestionsDelay": 0,
+    "terminal.integrated.suggest.quickSuggestions": {
+        "commands": "on",
+        "arguments": "on",
+        "unknown": "on"
+    }
+}
